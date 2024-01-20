@@ -1,0 +1,1 @@
+for vs code install python and code runner extension then go on then run and debug.
