@@ -1,4 +1,4 @@
-for vs code install python and code runner extension then go on then run and debug.
+//for vs code install python and code runner extension then go on then run and debug.
 
 install the files to
 pip install pandas
