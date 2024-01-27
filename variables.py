@@ -5,3 +5,4 @@ b="harry"
 print(b)
 print("Hello")
 print("type of b is ",type(b))
+print("Hello " + "World")
