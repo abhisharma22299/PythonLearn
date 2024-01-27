@@ -10,3 +10,6 @@ print("Abhishek "+"Sharma")
 # complex number like 2+3i
 comm=complex(8,2)
 print(comm)
+# Sequened data type List and tupples
+list=[8,3,-4,-2,["Apple","Bannana"]]
+print(list[0])
